@@ -12,5 +12,6 @@ public class test extends HttpServlet{
         String username = req.getParameter("username");
         System.out.println(username);
         res.getWriter().print("6676");
+        ;
     }
 }
