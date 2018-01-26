@@ -11,7 +11,7 @@ public class test extends HttpServlet{
     public void service(ServletRequest req, ServletResponse res) throws ServletException, IOException {
         String username = req.getParameter("username");
         System.out.println(username);
-        res.getWriter().print("6676ss");
+        res.getWriter().print("6676");
         ;
     }
 }
