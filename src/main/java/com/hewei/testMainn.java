@@ -16,6 +16,7 @@ public class testMainn implements Serializable {
      */
     public  void fun()
     {
-
+            int a=6;
+            int b=7;
     }
 }
