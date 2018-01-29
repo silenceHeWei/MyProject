@@ -7,6 +7,6 @@ public class testMainn implements Serializable {
     public static void main(String[] args) {
         int a = 666;
         File child = new File("child");
-
+        int b=6;
     }
 }
