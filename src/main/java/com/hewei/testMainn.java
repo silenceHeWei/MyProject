@@ -8,5 +8,14 @@ public class testMainn implements Serializable {
         int a = 666;
         File child = new File("child");
         int b=6;
+        new testMainn().fun();
+    }
+
+    /**
+     * 这是放方法的注释
+     */
+    public  void fun()
+    {
+
     }
 }
